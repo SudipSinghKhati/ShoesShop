@@ -1,0 +1,34 @@
+/* CartStyles.css */
+
+.container {
+    margin-top: 20px;
+  }
+  
+  .card-img-top {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .card {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 15px;
+  }
+  
+  .btn-danger {
+    background-color: #dc3545;
+    color: #fff;
+  }
+  
+  .btn-outline-warning {
+    color: red;
+    border-color: red;
+  }
+  
+  .btn-primary {
+    background-color: #007bff;
+    color: #fff;
+  }
+  
+ 
+  

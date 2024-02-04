@@ -1,0 +1,73 @@
+/* HomepageStyles.css */
+
+.home-page {
+  margin-top: 20px;
+}
+
+.banner-img {
+  object-fit: cover;
+}
+
+.filters {
+  padding: 20px;
+  border-radius: 5px;
+  background-color: rgb(225, 209, 209); /* Change the background color */
+}
+
+.filters h4 {
+  text-align: center;
+}
+
+.filters .ant-checkbox-wrapper {
+  margin-bottom: 10px;
+}
+
+.filters .ant-radio-group {
+  margin-top: 10px;
+}
+
+.filters .btn-danger {
+  background-color: #007bff;
+  border-color: #007bff; /* Change the background color */
+  color: #fff;
+}
+
+.card {
+  border: 1px solid #999; /* Change the border color */
+  margin: 10px;
+  width: 250px;
+}
+
+.card-img-top {
+  max-width: 100%;
+  height: auto;
+}
+
+.card-body {
+  padding: 10px;
+}
+
+.card-name-price {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.btn-info {
+  background-color: #4d94ff; /* Change the background color */
+  color: #fff;
+}
+
+.btn-dark {
+  background-color: #333; /* Change the background color */
+  color: #fff;
+}
+
+.loadmore {
+  background-color: red; /* Change the background color */
+  color: #fff;
+  padding: 10px;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+}

@@ -1,0 +1,25 @@
+{
+  "short_name": "Shoeshop",
+  "name": "ShoeShop",
+  "icons": [
+    {
+      "src": "client/public/images/browse.png",
+      "sizes": "64x64 40x40 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "browse.png",
+      "type": "browse.png",
+      "sizes": "40x40"
+    },
+    {
+      "src": "browse.png",
+      "type": "browse.png",
+      "sizes": "40x40"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
